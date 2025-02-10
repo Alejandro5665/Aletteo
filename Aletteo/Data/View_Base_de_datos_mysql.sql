@@ -1,0 +1,2 @@
+CREATE VIEW view_Datos AS
+SELECT * FROM Datos;
